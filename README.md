@@ -1,6 +1,7 @@
 # Common_Connectors
 
 QGiS project files used for organizing and sharing connections to publicly available gis layers and linking them, with pre-made style and settings, to new QGiS projects.
+QGiS 3.40 required
 
 ## Description
 Sorting through publicly available data has become the new information barrier now days. These Common_Connector files are made as an  advanced organizing and experimental tool for quickly linking data layers to your own projects.
