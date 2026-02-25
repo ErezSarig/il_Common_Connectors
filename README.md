@@ -1,11 +1,14 @@
 # Common_Connectors
 
-Connector files are perfectly normal QGiS project files, used for giving easier and faster acceses to publicly available GiS data. This is done easily by organizing and grouping connections from different sources in one place depending on their topics. Finding data becomes a lot easier and dragging layers from the file the Connector file into new projects will set them with a pre-made default style and settings. Basicly dragging is all you need to do and you're ready to work.
+Connector files are perfectly normal QGiS project files used for giving easier and faster acceses to publicly available GiS data. The Connector file is used a practicly as folder on your browser tab from which you fetch your layers with a pre-set style to fit your needs.
+
+Connector files are great for organizing and grouping connections from different sources in one place to access them quickly or share them with others. Once set with layer's styling, basicly dragging is all you need to do and you're ready to work.
+
 **QGiS 3.40 is needed since a lot of layers use proxy prefix 
 
 ## Longer Description
 Sorting through publicly available data has become the new information barrier for most. Keeping up with all links to relevant data, indexing and finding data became an extra expertise for us GiS specialists.
-These Common_Connector files are made as an advanced, fast and completly intuative organizing tool. So intuative actually, it's also a great way to share these layer connections with clients or peers also using QGiS. Because layers load with a previously defined default style, the Connector file is also a great way to save and share your costum style settings (including filters, actions and embedded scripts) prepared for these layers. 
+These Common_Connector files are made as an advanced, fast and completly intuative organizing tool. So intuative actually, it's also a great way to share layer connections with clients or peers as well. Because layers load with a previously defined default style, the Connector file is also a great way to save and share your costum style settings (including filters, actions and embedded scripts) prepared for these layers in advance. 
 
 Potentially, on addition for being a great organizing tool, these Connector files are a suggestion for a new type of media - aimed at republishing new ways to connect and use already openly available data for the QGiS community. This repo aims at showcasing this potenial.
 
